@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="HBO" tvg-name="" group-title="TEST" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856b6088c3016b87d64b970b53/20190628041940.jpg",HBO HLS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e48a682b976e4155be8faea47f3b632c:bc47d6b9a9d0478a80d7eada933bcb92
+https://cdnjkt913.transvision.co.id:1003/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="clevelandcavaliers0700tsnsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" tvg-logoA="https://img.sofascore.com/api/v1/team/3432/image" tvg-logoB="https://img.sofascore.com/api/v1/team/3421/image" tvg-status="LIVE NOW" tvg-time="2026-05-24 07:00 WIB" group-title="Nba",Cleveland Cavaliers 07:00 (TSN SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
