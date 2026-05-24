@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="clevelandcavaliers0700tsnsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" tvg-logoA="https://img.sofascore.com/api/v1/team/3432/image" tvg-logoB="https://img.sofascore.com/api/v1/team/3421/image" tvg-status="LIVE NOW" tvg-time="2026-05-24 07:00 WIB" group-title="Nba",Cleveland Cavaliers 07:00 (TSN SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+
 #EXTINF:-1 group-title="Giga Red",Canal Local Gigared Santa Fe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48d578949a3d595c87232a17430e375:6ef34a3ae28d31ddb9e3741fe15e36f8
