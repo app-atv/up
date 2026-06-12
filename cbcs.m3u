@@ -6,501 +6,467 @@
 #KODIPROP:inputstream.adaptive.license_key=e48a682b976e4155be8faea47f3b632c:bc47d6b9a9d0478a80d7eada933bcb92
 https://cdnjkt913.transvision.co.id:1003/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="clevelandcavaliers0700tsnsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" tvg-logoA="https://img.sofascore.com/api/v1/team/3432/image" tvg-logoB="https://img.sofascore.com/api/v1/team/3421/image" tvg-status="LIVE NOW" tvg-time="2026-05-24 07:00 WIB" group-title="Nba",Cleveland Cavaliers 07:00 (TSN SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-
-#EXTINF:-1 group-title="Giga Red", T
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-
-
-#EXTINF:-1 group-title="Giga Red",Canal Local Gigared Santa Fe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48d578949a3d595c87232a17430e375:6ef34a3ae28d31ddb9e3741fe15e36f8
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Canal_Local_Gigared_Santa_Fe/sa_live_dash/Canal_Local_Gigared_Santa_Fe.mpd
-
-#EXTINF:-1 group-title="Giga Red",AmericaTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32392e5868873c91ca77a0406b3d32d8:0f74f66dbeda0bb43b32445ea74d2087
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV.mpd
-
-#EXTINF:-1 group-title="Giga Red",Canal 9 Litoral
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a12379137924358ec604d854587a516d:14343b93fa8ecf2eabad85cc295fb46a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Canal_9_Litoral/sa_live_dash/Canal_9_Litoral.mpd
-
-#EXTINF:-1 group-title="Giga Red",Telefe Santa Fe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a01eedf6b870a091a049a95ba6f85b15:9f161558348513e5f3ed3a3a3ea2867d
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Telefe_Santa_Fe/sa_live_dash/Telefe_Santa_Fe.mpd
-
-#EXTINF:-1 group-title="Giga Red",TV Publica
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f50f7ac8cca2bcb40bf4a895b6378cea:0ca9392a44d0c0ff79abc01c15df8888
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/TV_Publica/sa_live_dash/TV_Publica.mpd
-
-#EXTINF:-1 group-title="Giga Red",Canal 9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaecaad505a66fab4161959099767384:ca66afd7ba0f3ce767b698b5e94c84e3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Canal_9/sa_live_dash/Canal_9.mpd
-
-#EXTINF:-1 group-title="Giga Red",TN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5bb6f9ef3b632b7ba2797048b4941a0:53f33a7ab0729daee5dbe8ecc8ee2c08
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/TN/sa_live_dash/TN.mpd
-
-#EXTINF:-1 group-title="Giga Red",LNmas
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffbe99278cd1aea87b3506d1c06defd6:fa8d96b8c2d97390ab329241a4e651ae
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/LNmas/sa_live_dash/LNmas.mpd
-
-#EXTINF:-1 group-title="Giga Red",C5N
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4b47d87494bd17dd7acf86ebb6c3a32:5df76e3d86d8d88799c52eae263d08b0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/C5N/sa_live_dash/C5N.mpd
-
-#EXTINF:-1 group-title="Giga Red",CronicaTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2932730b9b35ad5ded0e4d96af122676:57f01dd4f21f8786352399c80d36caf8
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/CronicaTV/sa_live_dash/CronicaTV.mpd
-
-#EXTINF:-1 group-title="Giga Red",Canal26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9a29d60110b731c5f3a141084379a40:8dcb1a09a6007fe72d621a09017276ba
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Canal26/sa_live_dash/Canal26.mpd
-
-#EXTINF:-1 group-title="Giga Red",A24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c43779fa115f80c118c29665cc78e4ba:4303ea7157eb2e6f6ce980bb87183825
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/A24/sa_live_dash/A24.mpd
-
-#EXTINF:-1 group-title="Giga Red",DeporTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f8bcea8ec9fdd5e6927e46ce856824b:3cf09d0c9ebeab2edfe600887e61b368
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/DeporTV/sa_live_dash/DeporTV.mpd
-
-#EXTINF:-1 group-title="Giga Red",TyC Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cac7b52cb14661fe3db0449020791d97:0c2780acce4ef9d7334ef25be445ceb4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/TyC_Sports/sa_live_dash/TyC_Sports.mpd
-
-#EXTINF:-1 group-title="Giga Red",ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
-
-#EXTINF:-1 group-title="Giga Red",ESPN2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd
-
-#EXTINF:-1 group-title="Giga Red",ESPN3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad0c72e30648501377425a62a2bf095c:2cfbc73f423203a9fc8a1d983ec4e8bb
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/ESPN3/sa_live_dash/ESPN3.mpd
-
-#EXTINF:-1 group-title="Giga Red",ESPN4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecafef3b8979c737d05ea191a02b7617:f46cd12052b0da221a3a178e2bde0162
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/ESPN4/sa_live_dash/ESPN4.mpd
-
-#EXTINF:-1 group-title="Giga Red",Fox Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c0016fff15fcc3cc5d103f821189100:94d789ac388ccbbfbd2cf91d5b7db028
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd
-
-#EXTINF:-1 group-title="Giga Red",Fox Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2e448d00073c0a66e02caa20a2fe135:70e9e4adfb2f0b5ac127654c1a56d238
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Fox_Sports_2/sa_live_dash/Fox_Sports_2.mpd
-
-#EXTINF:-1 group-title="Giga Red",Fox Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2f0d2f5e823bf3bd1113ed83b244c57:addd4c11afb303beb21f95f79a935561
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Fox_Sports_3/sa_live_dash/Fox_Sports_3.mpd
-
-#EXTINF:-1 group-title="Giga Red",El Garage
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c44389e1e90fb4d80e0a0d8090f8da1f:7bdf6460869276e70bd3eae576be2286
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/El_Garage/sa_live_dash/El_Garage.mpd
-
-#EXTINF:-1 group-title="Giga Red",Discovery Turbo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55b1aff18cff06f311d2f53145c0a748:7556d7b06fa5f94c7501c8956a764931
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Discovery_Turbo/sa_live_dash/Discovery_Turbo.mpd
-
-#EXTINF:-1 group-title="Giga Red",PakaPaka
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aa7687e39e7e7e2e3d64d87a2fa1920:523cc84985fadae95289dd88838133c9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/PakaPaka/sa_live_dash/PakaPaka.mpd
-
-#EXTINF:-1 group-title="Giga Red",Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=629f78368829802ade506b8f03e2d18b:6824ea53d6fd70d146b9e31a57cf3a20
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Disney_Channel/sa_live_dash/Disney_Channel.mpd
-
-#EXTINF:-1 group-title="Giga Red",Disney Junior
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eabe9f5aee4020c50f52a2bf476ac57:490fc8a1a900893d20631da45412879d
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Disney_Junior/sa_live_dash/Disney_Junior.mpd
-
-#EXTINF:-1 group-title="Giga Red",Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=611595b6387cdcfb67ce564768fd61aa:dd5fba9ab529822129c09c029b28651c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Nickelodeon/sa_live_dash/Nickelodeon.mpd
-
-#EXTINF:-1 group-title="Giga Red",Discovery Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f92dc6055aefecb8a2abdba9ecf65cb:23a68bb309729298ceb3b5fcd3ff174d
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Discovery_Kids/sa_live_dash/Discovery_Kids.mpd
-
-#EXTINF:-1 group-title="Giga Red",Plim Plim
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44292917d1f5519af4598ccfc66b53dd:f90cee2e43e02176113cff8ccf09465e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Plim_Plim/sa_live_dash/Plim_Plim.mpd
-
-#EXTINF:-1 group-title="Giga Red",Zoo Moo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe8869466801cac2f84dcc6c3584d76:d6c878a3c04face66707d817ec62d628
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Zoo_Moo/sa_live_dash/Zoo_Moo.mpd
-
-#EXTINF:-1 group-title="Giga Red",Cine ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff87d23b45efc58ff6a7ad0f5fdef566:0e84fa871d67fede2c5385b54b60b5dc
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Cine_ar/sa_live_dash/Cine_ar.mpd
-
-#EXTINF:-1 group-title="Giga Red",Cinecanal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed9cb36b2c7ab639bb5b8627b2e980e8:a0d844faf1c31330165393e43e0d3bd8
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Cinecanal/sa_live_dash/Cinecanal.mpd
-
-#EXTINF:-1 group-title="Giga Red",TNT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d9e8eb8d97c4ff0dbfb02c3c417ae48:a426cb9e3ff4cac8b2e153ef54e69072
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/TNT/sa_live_dash/TNT.mpd
-
-#EXTINF:-1 group-title="Giga Red",FX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b060d6864d9b870b3a5f43c10370977c:7a9104e80a2bd14429ad4c877a9926b5
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/FX/sa_live_dash/FX.mpd
-
-#EXTINF:-1 group-title="Giga Red",Star Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba8e3594a2280a1f0b749d66dccfab99:efa66c01f0e96775398994f1754be46b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Star_Channel/sa_live_dash/Star_Channel.mpd
-
-#EXTINF:-1 group-title="Giga Red",Sony Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2e6c6842391fd4d9dfe3c047e286eb4:7d563478e5669d44cec9a6215052fec3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Sony_Channel/sa_live_dash/Sony_Channel.mpd
-
-#EXTINF:-1 group-title="Giga Red",Universal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=281ed03234dce7e50391f9c4c7c90b48:148c12b5c4526f3f7ab70f385cb36fac
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Universal/sa_live_dash/Universal.mpd
-
-#EXTINF:-1 group-title="Giga Red",AXN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bac0cdbf2e5a82fb27818e30bc8b75e5:478bda16b7bbb4d01928270159771bd9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/AXN/sa_live_dash/AXN.mpd
-
-#EXTINF:-1 group-title="Giga Red",Studio Universal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68987b791521decfbe5dd633a3c15dc5:cff99d15661b3e8393d9ac9dd9a89869
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Studio_Universal/sa_live_dash/Studio_Universal.mpd
-
-#EXTINF:-1 group-title="Giga Red",AyE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e45fe47af35c23962a3cc0ada9119f0:84f178941bbcedca8d43926b69cca9b1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/AyE/sa_live_dash/AyE.mpd
-
-#EXTINF:-1 group-title="Giga Red",USA Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=072f31c5b5238da0d3b54b2a79e7a7d9:984532822dc6ff3be1ffc56b0686d290
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/USA_Network/sa_live_dash/USA_Network.mpd
-
-#EXTINF:-1 group-title="Giga Red",AMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d60a3128c3cbe6c2728ccca61f55a87f:1cc37b6959b6f9e7f70532604d1e8ed1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/AMC/sa_live_dash/AMC.mpd
-
-#EXTINF:-1 group-title="Giga Red",Golden
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=384a49756e9d5247537404c487edf312:72e31a1d402eb30584c541736267f478
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Golden/sa_live_dash/Golden.mpd
-
-#EXTINF:-1 group-title="Giga Red",Sony Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4201cacd22f7a4f3bb6db354c9ac9d75:f43bbaf105697ac3f8ff4c69ee30967f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Sony_Movies/sa_live_dash/Sony_Movies.mpd
-
-#EXTINF:-1 group-title="Giga Red",Eurochannel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee22649f9cf24a09c8e2d7f527b61ab6:5f4f4cf346468adb895a5b5d5edd9a72
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Eurochannel/sa_live_dash/Eurochannel.mpd
-
-#EXTINF:-1 group-title="Giga Red",Golden Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2127eb2cb9152cb1a21815cf423b7114:3a1715592b6916bb3c2e7e477c5441bd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Golden_Plus/sa_live_dash/Golden_Plus.mpd
-
-#EXTINF:-1 group-title="Giga Red",Investigation discovery
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54c693fe580f7a376d3a4ffcbaff2377:64f7f672af645bd14c26f598e65ca686
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Investigation_discovery/sa_live_dash/Investigation_discovery.mpd
-
-#EXTINF:-1 group-title="Giga Red",Comedy Central
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2ef982ad8e10b04abb16ecfe4deab17:c9ec0f4087a3cd993de0a0dcb0a8a86b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Comedy_Central/sa_live_dash/Comedy_Central.mpd
-
-#EXTINF:-1 group-title="Giga Red",Cine Familiar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=721b4557143c8a37ec427423785875e5:3b76efe869910f4d86012915422a5b89
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Cine_Familiar/sa_live_dash/Cine_Familiar.mpd
-
-#EXTINF:-1 group-title="Giga Red",Cine Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=670ffd29bd6ada72170188ed785f7e2f:7fa7edadd763531e133bf4a1aef51ce3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Cine_Premium/sa_live_dash/Cine_Premium.mpd
-
-#EXTINF:-1 group-title="Giga Red",Telenovelas
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=214c0efa71c1ac68be8143b18e4a5a52:dbd58022cf2f0f6c69e979a54346cc8b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Telenovelas/sa_live_dash/Telenovelas.mpd
-
-#EXTINF:-1 group-title="Giga Red",El Gourmet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9034121a55c5254270a7fc87e6b933c:630f14e9ca88c92a25af19834bbf01d6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/El_Gourmet/sa_live_dash/El_Gourmet.mpd
-
-#EXTINF:-1 group-title="Giga Red",E Entertainment
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a67b85023aec0c096831b2b0373715fd:be97d3955e711dfa12237416a1b9ad52
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/E_Entertainment/sa_live_dash/E_Entertainment.mpd
-
-#EXTINF:-1 group-title="Giga Red",Discovery HyH
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=270233c3621c173ad74f16aa6ba367ac:b39c8748f7f7530b1591c3a2ee0a3703
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Discovery_HyH/sa_live_dash/Discovery_HyH.mpd
-
-#EXTINF:-1 group-title="Giga Red",Mas Chic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4eafc89afd50886c0fc2cc733dc62d8:dd9be06d69c495b23952652b0f765892
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Mas_Chic/sa_live_dash/Mas_Chic.mpd
-
-#EXTINF:-1 group-title="Giga Red",TLC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=28f91c97b02842d14c2196467d9f22ec:07167c215250ae056a8f5dfb9b80d3a4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/TLC/sa_live_dash/TLC.mpd
-
-#EXTINF:-1 group-title="Giga Red",Love Nature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30c35033226fea72c04b3fbdd3fe67d5:fbf7d2dffa946cbf38ef329a5f31f795
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Love_Nature/sa_live_dash/Love_Nature.mpd
-
-#EXTINF:-1 group-title="Giga Red",Unife
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7213abb07b0ce71bedc6ba337e168fa4:317bc08ed843883a9397c61b22e1b60e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Unife/sa_live_dash/Unife.mpd
-
-#EXTINF:-1 group-title="Giga Red",Discovery Science
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26c0b72d115923133a5a9e4d4011819f:cf04154c74f09b1fd98115a9e04fcec6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Discovery_Science/sa_live_dash/Discovery_Science.mpd
-
-#EXTINF:-1 group-title="Giga Red",Nat Geo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa5e6dae90f144937f1cf638460efe13:284534e78bb04505bae9b484b2dc1537
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Nat_Geo/sa_live_dash/Nat_Geo.mpd
-
-#EXTINF:-1 group-title="Giga Red",Discovery Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=142c0c050c551486e07bc210a1357da6:0dbbc07185e4650e1a05dbbcb888909f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Discovery_Channel/sa_live_dash/Discovery_Channel.mpd
-
-#EXTINF:-1 group-title="Giga Red",Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eded9e86a760b6e23d1ce1d80b85484:74e74a9ea3933219454c81f28ade93a8
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Animal_Planet/sa_live_dash/Animal_Planet.mpd
-
-#EXTINF:-1 group-title="Giga Red",HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75dab5c02f8c98acc2a461a99da99b7e:01fbb96e5283f6706b102c8d8ad54c5c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/HGTV/sa_live_dash/HGTV.mpd
-
-#EXTINF:-1 group-title="Giga Red",History Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c14f56c92a97db5abb4b83da823f81f:143a64606506c57b452bd9c8327bd6ff
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/History_Channel/sa_live_dash/History_Channel.mpd
-
-#EXTINF:-1 group-title="Giga Red",CanalA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=097578fb861438a8deecc5643082997b:3ac02ae9a503e76a58f1e94eebd5f43d
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/CanalA/sa_live_dash/CanalA.mpd
-
-#EXTINF:-1 group-title="Giga Red",Film and Arts
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=940d79fb1961288803c64e60da991c5a:f55e18690327be6db3a1cf24b5be438b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Film_and_Arts/sa_live_dash/Film_and_Arts.mpd
-
-#EXTINF:-1 group-title="Giga Red",Discovery World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cea94fefef1ff96d4ab0e27fb846b0c3:634b2496b64bffc426bd4093c5945ec3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Discovery_World/sa_live_dash/Discovery_World.mpd
-
-#EXTINF:-1 group-title="Giga Red",RAI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2e6c6842391fd4d9dfe3c047e286eb4:7d563478e5669d44cec9a6215052fec3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/RAI/sa_live_dash/RAI.mpd
-
-#EXTINF:-1 group-title="Giga Red",TVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40d5b3d7302d0d707e88ea1cb4b194b5:b0f99846a1680e9425e8c76aae57fb53
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/TVE/sa_live_dash/TVE.mpd
-
-#EXTINF:-1 group-title="Giga Red",24H
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91978d09e4feadcdcb15c1d670e149d3:83f5a6f07b63a02157fffb9fc83e1c68
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/24H/sa_live_dash/24H.mpd
-
-#EXTINF:-1 group-title="Giga Red",MTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92a2837411c8be67f7ec1f79a7996750:1ec313bd01d3f6d306fff11e4b032a1b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/MTV/sa_live_dash/MTV.mpd
-
-#EXTINF:-1 group-title="Giga Red",CM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1713f5c8e140bc32fab3893341bd6bf6:85dbe90fab4bca195924b7cb17bfc211
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/CM/sa_live_dash/CM.mpd
-
-#EXTINF:-1 group-title="Giga Red",Quiero Musica
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8be45f648b2f5a27f6c16a8dce2c92e1:defd91f23137624fec9fe157d6adc1dd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Quiero_Musica/sa_live_dash/Quiero_Musica.mpd
-
-#EXTINF:-1 group-title="Giga Red",Telehit Musica
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8837e4d7fdfaba5940310e719e12b99:057a34cc85e38471e2a023b78ec79175
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/Telehit_Musica/sa_live_dash/Telehit_Musica.mpd
-
-#EXTINF:-1 group-title="Giga Red",Telehit Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dcafee5775552f97891dfdada84df85:089ae50f8036135e7e458292e44676b5
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/Telehit_Plus/sa_live_dash/Telehit_Plus.mpd
-
-#EXTINF:-1 group-title="Giga Red",ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
-
-#EXTINF:-1 group-title="Giga Red",ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd
-
-#EXTINF:-1 group-title="Giga Red",ESPN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad0c72e30648501377425a62a2bf095c:2cfbc73f423203a9fc8a1d983ec4e8bb
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/ESPN3/sa_live_dash/ESPN3.mpd
-
-#EXTINF:-1 group-title="Giga Red",ESPN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecafef3b8979c737d05ea191a02b7617:f46cd12052b0da221a3a178e2bde0162
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/53736
-https://cdn02.gigared.com.ar/live/eds/ESPN4/sa_live_dash/ESPN4.mpd
-
-#EXTINF:-1 group-title="Giga Red",ESPN Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dca96877c202470bdad9839bea525c0a:d651871131d4b26f0095bcb9771b8f2f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/ESPN_Premium/sa_live_dash/ESPN_Premium.mpd
-
-#EXTINF:-1 group-title="Giga Red",TNT Sports Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f26eb059fb0854f4d4218c895d7ae803:ffcb3fd4bd5657889215be4cb6275d1b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/TNT_Sports_Premium/sa_live_dash/TNT_Sports_Premium.mpd
+#------ Unifi TV分类开始 ------
+
+#EXTINF:-1 group-title="Unifi TV",TV1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fe3d74e8cbc4ee0b071a64257068e38:77ece75d9526f5beac0ab6bf1ee3bd89
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(TV1)/master.mpd?kid=1fe3d74e-8cbc-4ee0-b071-a64257068e38
+
+#EXTINF:-1 group-title="Unifi TV",TV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0749c883bbdb4d5a9483a65e719a13dc:24c0fce8e6c3bf6b43790b117e0e89e3
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(TV2)/master.mpd?kid=0749c883-bbdb-4d5a-9483-a65e719a13dc
+
+#EXTINF:-1 group-title="Unifi TV",TV3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(TV3)/master.mpd?kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
+
+#EXTINF:-1 group-title="Unifi TV",Didik TV KPM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Didik)/master.mpd?kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
+
+#EXTINF:-1 group-title="Unifi TV",8TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(8TV)/master.mpd?kid=da1cb24f-55db-4ae1-b323-19c365920539
+
+#EXTINF:-1 group-title="Unifi TV",TV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(TV9)/master.mpd?kid=eea0828c-38d7-4407-a5c3-84ad730d7224
+
+#EXTINF:-1 group-title="Unifi TV",Salam HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Salam)/master.mpd?kid=32b2e717-61af-4641-900f-87df03c48cb2
+
+#EXTINF:-1 group-title="Unifi TV",TV AlHijrah HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3665ce09fcb49229602d45d1d5be4d4:eb122760bbad018974689ce1372bce26
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(TVAL)/master.mpd?kid=f3665ce0-9fcb-4922-9602-d45d1d5be4d4
+
+#EXTINF:-1 group-title="Unifi TV",SIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(SIAR)/master.mpd?kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
+
+#EXTINF:-1 group-title="Unifi TV",TV Sarawak
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe6c43961ea8401e8e8bc211b1197961:b9ce7dc616a3987e2b8900ce44735b07
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(TVS)/master.mpd?kid=fe6c4396-1ea8-401e-8e8b-c211b1197961
+
+#EXTINF:-1 group-title="Unifi TV",Dunia Sinema HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(DuniaSin)/master.mpd?kid=01a17625-701e-4734-b02a-a22c8657bd6f
+
+#EXTINF:-1 group-title="Unifi TV",PESONA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Pesona)/master.mpd?kid=d6a2211c-ff95-4597-9f6f-1a09851fa495
+
+#EXTINF:-1 group-title="Unifi TV",tvN Movies HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(tVnM)/master.mpd?kid=52480b66-51c2-43e2-b48b-04ab3ecf05ec
+
+#EXTINF:-1 group-title="Unifi TV",tvN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=925fe1266db744a3b9524a23a6cc524b:d1266e747e241339a539e54f26890286
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(tVNHD)/master.mpd?kid=925fe126-6db7-44a3-b952-4a23a6cc524b
+
+#EXTINF:-1 group-title="Unifi TV",TVB Jade
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98a7777c449e411f95a3441a014b43cb:682736567be5f2c0a0ae6120d06a59d7
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(tvbjade)/master.mpd?kid=98a7777c-449e-411f-95a3-441a014b43cb
+
+#EXTINF:-1 group-title="Unifi TV",TVB Xing He
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4548ce69a714947b7cc397a64e31139:248c84e70fd360e45006760baad12ecc
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(tvbxinghe)/master.mpd?kid=f4548ce6-9a71-4947-b7cc-397a64e31139
+
+#EXTINF:-1 group-title="Unifi TV",CCTV-4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61f56bac8d6d4e818c4cbfb9099abde6:029c725769175e6a0739b073e4a70bbf
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(CCTV4)/master.mpd?kid=61f56bac-8d6d-4e81-8c4c-bfb9099abde6
+
+#EXTINF:-1 group-title="Unifi TV",Phoenix Hong Kong Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f9ce370227a460480227f54a31133a2:bdd8eff0eff475d74b6deaf8c5c7ef69
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(phoenixhongkong)/master.mpd?kid=5f9ce370-227a-4604-8022-7f54a31133a2
+
+#EXTINF:-1 group-title="Unifi TV",SETI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d267de2a8184683bd8de9ff6a761b2a:ff83fafbef57e24fc626a9f589ca1da9
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Seti)/master.mpd?kid=9d267de2-a818-4683-bd8d-e9ff6a761b2a
+
+#EXTINF:-1 group-title="Unifi TV",Celestial Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=107e13b213a94a6cbb6d02c25653c083:044af5b9e0258e2d39437ee03365fd2d
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Celestial)/master.mpd?kid=107e13b2-13a9-4a6c-bb6d-02c25653c083
+
+#EXTINF:-1 group-title="Unifi TV",Celestial Classic Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dcc7b00add745619ff1dd29ac7e591c:cdab9ac07955a7a2ea78b03343b77fbd
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(CelestialC)/master.mpd?kid=5dcc7b00-add7-4561-9ff1-dd29ac7e591c
+
+#EXTINF:-1 group-title="Unifi TV",Zee Thirai
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd7282e920e5437a9b1f01bc6f81795c:99763370f0763b0f7119aab091cc70c8
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(ZeeThi)/master.mpd?kid=bd7282e9-20e5-437a-9b1f-01bc6f81795c
+
+#EXTINF:-1 group-title="Unifi TV",Sony YAY!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=582e9e382cb0495886afbabdbdb6fbf7:c0f550839b235443724cd007392b6e40
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(SonyYay)/master.mpd?kid=582e9e38-2cb0-4958-86af-babdbdb6fbf7
+
+#EXTINF:-1 group-title="Unifi TV",ZEE Tamil HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e1831ba6f946568bdea62e67ca7317:f02c40d2006e036104f7726116861d7c
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(ZeeTamil)/master.mpd?kid=06e1831b-a6f9-4656-8bde-a62e67ca7317
+
+#EXTINF:-1 group-title="Unifi TV",Zee Cinema HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22fdfcf5cb304eb6b2ebbecbca9c9d10:b7c4f0ab8bc0bd4deabe73cf75dfa537
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(ZeeCinema)/master.mpd?kid=22fdfcf5-cb30-4eb6-b2eb-becbca9c9d10
+
+#EXTINF:-1 group-title="Unifi TV",HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(HBO)/master.mpd?kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
+
+#EXTINF:-1 group-title="Unifi TV",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(HBOH)/master.mpd?kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
+
+#EXTINF:-1 group-title="Unifi TV",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(HBOF)/master.mpd?kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
+
+#EXTINF:-1 group-title="Unifi TV",Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Cinemax)/master.mpd?kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
+
+#EXTINF:-1 group-title="Unifi TV",HITS Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74ecb929cd504143bb68bd0e7cac6f4e:b71cfa4590853ea63014e128ecdb4fbe
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(hitsM)/master.mpd?kid=74ecb929-cd50-4143-bb68-bd0e7cac6f4e
+
+#EXTINF:-1 group-title="Unifi TV",Warner TV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(WarnerTV)/master.mpd?kid=6f4ea7be-45af-4275-a8d7-6845fb19dba5
+
+#EXTINF:-1 group-title="Unifi TV",HITS NOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c350232d50f46dcb776ea6d12f875d2:9469ab183f965894e038e2c137f0faa0
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(hitsnow)/master.mpd?kid=4c350232-d50f-46dc-b776-ea6d12f875d2
+
+#EXTINF:-1 group-title="Unifi TV",AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4345340d92d64788bef7d99594cbe643:c67f6e21ebbd520e31d4141b771d3867
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(AXN)/master.mpd?kid=4345340d-92d6-4788-bef7-d99594cbe643
+
+#EXTINF:-1 group-title="Unifi TV",HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=196b011306d04ac38c2b8493b89a40d5:862064c3fbd5f4d2e8a9e7b89889a06b
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(HITS)/master.mpd?kid=196b0113-06d0-4ac3-8c2b-8493b89a40d5
+
+#EXTINF:-1 group-title="Unifi TV",K Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=826e7fd2d6a14060bfea9347d96f8824:176897afb079e0cc76bc912df4cb0b6e
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Kplus)/master.mpd?kid=826e7fd2-d6a1-4060-bfea-9347d96f8824
+
+#EXTINF:-1 group-title="Unifi TV",Animax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Animax)/master.mpd?kid=4bd30e54-5711-44eb-9168-a1a7e5915f75
+
+#EXTINF:-1 group-title="Unifi TV",ROCK Entertainment HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(RockEnt)/master.mpd?kid=6bbe30dc-7d79-4984-9ba0-c4f2abb2a3ff
+
+#EXTINF:-1 group-title="Unifi TV",Rock Action HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c64cf911505e42c8aa17869ae51206ba:2f3f5f1c609c1120216d4d72377d1ac2
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(RockAction)/master.mpd?kid=c64cf911-505e-42c8-aa17-869ae51206ba
+
+#EXTINF:-1 group-title="Unifi TV" tvg-id="BBC Earth" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5381b805544744d8b6344de564d327f5:d5fa0ec68c6a7c86c19f630cfd353606
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(BBCEarth)/master.mpd?kid=5381b805-5447-44d8-b634-4de564d327f5
+
+#EXTINF:-1 group-title="Unifi TV",Love Nature HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3af2407f93664272a2b0c24be3632d93:6504d3e04a92a7d0d0d36818f477cae4
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(LoveNature)/master.mpd?kid=3af2407f-9366-4272-a2b0-c24be3632d93
+
+#EXTINF:-1 group-title="Unifi TV",HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=143c537a533b4e53a7137703bc92c0f2:551cc5be6820a5b44d099dc7ace177f0
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(HGTV)/master.mpd?kid=143c537a-533b-4e53-a713-7703bc92c0f2
+
+#EXTINF:-1 group-title="Unifi TV" tvg-id="Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2610c65bf27740e29f9cc41dc3549781:12e8aaacff0fc2bd780058a5c6883a1c
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(BBCLife)/master.mpd?kid=2610c65b-f277-40e2-9f9c-c41dc3549781
+
+#EXTINF:-1 group-title="Unifi TV",Asian Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f69611e9e94a1cba591f855b191362:bbd319d36c1728a8e4cc6bb4a8ad12f4
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(AsianFoodNetwork)/master.mpd?kid=d6f69611-e9e9-4a1c-ba59-1f855b191362
+
+#EXTINF:-1 group-title="Unifi TV",DreamWorks HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Dreamworks)/master.mpd?kid=e8ce35ed-8bc3-4772-abed-d63383aa11b7
+
+#EXTINF:-1 group-title="Unifi TV",Moonbug Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3189457b38b4ed9888c5a2e763f0ab8:d4dc62e11dd1856ed4f9a26d44271d0b
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Moonbug)/master.mpd?kid=c3189457-b38b-4ed9-888c-5a2e763f0ab8
+
+#EXTINF:-1 group-title="Unifi TV",Nick Jr.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe60385da93e48cda9dce2c686862462:8e7c6f6beb074f153da1b00c3cf95908
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Nickjr)/master.mpd?kid=fe60385d-a93e-48cd-a9dc-e2c686862462
+
+#EXTINF:-1 group-title="Unifi TV",Cbeebies HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Cbeebies)/master.mpd?kid=cc5bdbd0-24fe-456b-a661-3471e4931041
+
+#EXTINF:-1 group-title="Unifi TV",Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Nickelodeon)/master.mpd?kid=9b10e787-fac8-4ff4-84c8-c7d7f7668925
+
+#EXTINF:-1 group-title="Unifi TV",Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2da2675c6da34253b376318ef350cf19:688c0015a6b4863f0663f25f42036800
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(CartoonNet)/master.mpd?kid=2da2675c-6da3-4253-b376-318ef350cf19
+
+#EXTINF:-1 group-title="Unifi TV",BBC World News HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0282f5cc38944bf58d8fdd9abc312339:f422861c29542fe34c866b1cd291f411
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(BBCW)/master.mpd?kid=0282f5cc-3894-4bf5-8d8f-dd9abc312339
+
+#EXTINF:-1 group-title="Unifi TV",Al Jazeera
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c0678dad08451e955a53ee95aff30f:a05ca10851a61c2933243b7169be6679
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(AlJazeera)/master.mpd?kid=b5c0678d-ad08-451e-955a-53ee95aff30f
+
+#EXTINF:-1 group-title="Unifi TV",CGTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d67d585ef2ab4f1c88f33520eb06fa77:bb8f72c9606555ca4b386baeacc30fb0
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(CGTN)/master.mpd?kid=d67d585e-f2ab-4f1c-88f3-3520eb06fa77
+
+#EXTINF:-1 group-title="Unifi TV",CNA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55da3b7a04b34d93a2ce0c4e3d33a6cd:57ace0638aef039c73f23056add87781
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(CAN)/master.mpd?kid=55da3b7a-04b3-4d93-a2ce-0c4e3d33a6cd
+
+#EXTINF:-1 group-title="Unifi TV",Euronews
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67f4948cdafa46ebbd71eae875237023:9dc5b14da7c3c0d89d63bd9242c2dab0
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(EuroN)/master.mpd?kid=67f4948c-dafa-46eb-bd71-eae875237023
+
+#EXTINF:-1 group-title="Unifi TV",Bernama TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c588bd14a1049eea04db9eea80e6c68:57a5147c8537d8c7fead448d2a9587c7
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(bernama)/master.mpd?kid=0c588bd1-4a10-49ee-a04d-b9eea80e6c68
+
+#EXTINF:-1 group-title="Unifi TV",Parlimen Malaysia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dce6cb3389014684b2abc82f6a478bff:086c0ad70d90bbd9e39478dd0c2460b0
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(parlimen)/master.mpd?kid=dce6cb33-8901-4684-b2ab-c82f6a478bff
+
+#EXTINF:-1 group-title="Unifi TV",ABC Australia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6349d2165514fa38fb6f1348679ba36:1db75d2e54ff52806d84af64499685ff
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(ABC)/master.mpd?kid=a6349d21-6551-4fa3-8fb6-f1348679ba36
+
+#EXTINF:-1 group-title="Unifi TV",DW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d2decb97b1437fb29922333892c2e8:1f326af1645f96c0993b142e57db9ab7
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(DW)/master.mpd?kid=68d2decb-97b1-437f-b299-22333892c2e8
+
+#EXTINF:-1 group-title="Unifi TV",NHK WORLD-JAPAN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1e473b4fac4c13b6bd73014a14df4e:602617c77b787b240308567f1f04df20
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(NHK)/master.mpd?kid=bd1e473b-4fac-4c13-b6bd-73014a14df4e
+
+#EXTINF:-1 group-title="Unifi TV",Unifi Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(unifi1)/master.mpd?kid=90c7eb5d-66b4-42a9-a591-775cc1154bc9
+
+#EXTINF:-1 group-title="Unifi TV",SPOTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(spoTV)/master.mpd?kid=5b593bd5-30f1-403a-8f3e-b9b2cd9236c8
+
+#EXTINF:-1 group-title="Unifi TV",SPOTV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(spoTV2)/master.mpd?kid=1af079fb-8e1d-43d8-90c1-d804431ad84c
+
+#EXTINF:-1 group-title="Unifi TV",beIN SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Bein1)/master.mpd?kid=d48b6088-253c-443e-b94d-27cb7828f707
+
+#EXTINF:-1 group-title="Unifi TV",beIN SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Bein2)/master.mpd?kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
+
+#EXTINF:-1 group-title="Unifi TV",beIN SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Bein3)/master.mpd?kid=816ee2f7-c19f-49ed-8427-6f34541b465b
+
+#EXTINF:-1 group-title="Unifi TV",beIN SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+https://unifi.atv-live.workers.dev/Content/DASH/Live/channel(Bein4)/master.mpd?kid=d561ff97-6397-473e-9b45-6b44cdffcdd2
 
